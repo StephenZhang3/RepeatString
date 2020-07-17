@@ -1,5 +1,3 @@
-package homework;
-
 import java.util.HashSet;
 import java.util.Scanner;
 
